@@ -51,7 +51,7 @@ type,schema/database,dsn,user,password
 ORACLE,test,dbi:Oracle:host=127.0.0.1;sid=XE' & echo PWNED > pwned.txt & echo ',system,manager
 ```
 
-![1/2.jpg]()
+![1.png](1.png)
 
 ### Attack Flow
 1. Attacker creates CSV file containing malicious DSN
